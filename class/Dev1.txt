@@ -2,6 +2,11 @@ cout<<"given no is even";}
 	else{
 		cout<<"no is odd";
 	}
+out<<"given no is even";}
+	else{
+		cout<<"no is odd";
+	}
 for(int i=0;i<=n;i++)
 {
 }
+
