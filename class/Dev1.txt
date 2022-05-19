@@ -1,0 +1,4 @@
+cout<<"given no is even";}
+	else{
+		cout<<"no is odd";
+	}
